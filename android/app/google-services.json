@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205458214983",
+    "project_id": "wastenot-1e415",
+    "storage_bucket": "wastenot-1e415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205458214983:android:4d07d71b0cb659a265e162",
+        "android_client_info": {
+          "package_name": "com.example.tips_and_resources"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205458214983-2380093rld3d28ig2jpodl5md3gfebvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvBdSZYfVHmI4ezdS7Zjv1Blac4glJTPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205458214983-2380093rld3d28ig2jpodl5md3gfebvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
